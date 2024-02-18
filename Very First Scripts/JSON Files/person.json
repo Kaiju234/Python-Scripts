@@ -1,0 +1,16 @@
+{
+    "firstName": "Raj",
+    "lastName": "Shah",
+    "hobbies": ["Gaming", "Anime", "Coding"],
+    "age": 18,
+    "children": [
+        {
+            "firstName": "Avery",
+            "age": 17
+        },
+        {
+            "firstName": "Gavin",
+            "age": 18
+        }
+    ]
+}
